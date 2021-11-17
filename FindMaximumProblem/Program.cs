@@ -35,18 +35,32 @@ namespace FindMaximumProblem
 
             Console.WriteLine("* comparison of int using generic");
             new Refactor1and2Class<int>(num1, num2, num3).testMaximum();
-            
+            Console.WriteLine("");
             Console.WriteLine("* comparison of float using generic");
             new Refactor1and2Class<float>(number1, number2, number3).testMaximum();
-           
+            Console.WriteLine("");
             Console.WriteLine("* comparison of string using generic");
             new Refactor1and2Class<string>(Line1, Line2, Line3).testMaximum();
             Console.WriteLine("-------------------------");
             Console.WriteLine("-------------------------");
-            Console.WriteLine("* comparison of int using generic and Max method");
+
+            Console.WriteLine("* comparison of int using Max method");
             int num4 = 40;
             int[] values = { num1, num2, num3, num4 };
-            uc4_maxMethod<int>.Max<int>(values);
+            uc4_maxMethod.Max(values);
+
+            Console.WriteLine("-------------------------");
+            Console.WriteLine("-------------------------");
+            Console.WriteLine("* comparison of int using generic and Max method");
+            int num = 45;
+            int[] values2 = { num1, num2, num3, num };
+            uc5_extendMax<int>.Max<int>(values);
+            
+            Console.WriteLine("-------------------------");
+            Console.WriteLine("* comparison of float using generic and Max method");
+            
+            float[] value = { number1, number2, number3 };
+            uc5_extendMax<float>.Max<float>(value);
 
         }
     }

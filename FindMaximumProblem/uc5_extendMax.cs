@@ -4,16 +4,15 @@ using System.Text;
 
 namespace FindMaximumProblem
 {
-    class uc4_maxMethod
+    class uc5_extendMax<T>
     {
-        public static void Max(int[] values)
+        public static void Max<T>(T[] values) where T : IComparable<T>
         {
-            
-            int max = values[0];
+            T max = values[0];
             for (int i = 1; i < values.Length; i++)
                 if (values[i].CompareTo(max) > 0) max = values[i];
             Console.WriteLine("max number: " + max);
-            
+
         }
     }
 }
