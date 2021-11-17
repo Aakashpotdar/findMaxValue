@@ -1,0 +1,14 @@
+C:\Users\AKASH\source\repos\findMax\FindMaximumProblem\bin\Debug\netcoreapp3.1\FindMaximumProblem.exe
+C:\Users\AKASH\source\repos\findMax\FindMaximumProblem\bin\Debug\netcoreapp3.1\FindMaximumProblem.deps.json
+C:\Users\AKASH\source\repos\findMax\FindMaximumProblem\bin\Debug\netcoreapp3.1\FindMaximumProblem.runtimeconfig.json
+C:\Users\AKASH\source\repos\findMax\FindMaximumProblem\bin\Debug\netcoreapp3.1\FindMaximumProblem.runtimeconfig.dev.json
+C:\Users\AKASH\source\repos\findMax\FindMaximumProblem\bin\Debug\netcoreapp3.1\FindMaximumProblem.dll
+C:\Users\AKASH\source\repos\findMax\FindMaximumProblem\bin\Debug\netcoreapp3.1\FindMaximumProblem.pdb
+C:\Users\AKASH\source\repos\findMax\FindMaximumProblem\obj\Debug\netcoreapp3.1\FindMaximumProblem.csproj.AssemblyReference.cache
+C:\Users\AKASH\source\repos\findMax\FindMaximumProblem\obj\Debug\netcoreapp3.1\FindMaximumProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKASH\source\repos\findMax\FindMaximumProblem\obj\Debug\netcoreapp3.1\FindMaximumProblem.AssemblyInfoInputs.cache
+C:\Users\AKASH\source\repos\findMax\FindMaximumProblem\obj\Debug\netcoreapp3.1\FindMaximumProblem.AssemblyInfo.cs
+C:\Users\AKASH\source\repos\findMax\FindMaximumProblem\obj\Debug\netcoreapp3.1\FindMaximumProblem.csproj.CoreCompileInputs.cache
+C:\Users\AKASH\source\repos\findMax\FindMaximumProblem\obj\Debug\netcoreapp3.1\FindMaximumProblem.dll
+C:\Users\AKASH\source\repos\findMax\FindMaximumProblem\obj\Debug\netcoreapp3.1\FindMaximumProblem.pdb
+C:\Users\AKASH\source\repos\findMax\FindMaximumProblem\obj\Debug\netcoreapp3.1\FindMaximumProblem.genruntimeconfig.cache
